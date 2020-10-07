@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<invoices amount_type='open' import_type='changes' file_sequence='0'>
+<invoice>
+<debtor_number>900</debtor_number>
+<invoice_number>a11</invoice_number>
+<description>old date invoice</description>
+<invoice_date>20111124</invoice_date>
+<date_due>20121124</date_due>
+<date_paid></date_paid>
+<currency_code>EUR</currency_code>
+<amount_invoice>500000</amount_invoice>
+<amount>500000</amount>
+</invoice>
+<invoice>
+<debtor_number>900</debtor_number>
+<invoice_number>a12</invoice_number>
+<description>old date invoice</description>
+<invoice_date>20111124</invoice_date>
+<date_due>20121124</date_due>
+<date_paid></date_paid>
+<currency_code>EUR</currency_code>
+<amount_invoice>500000</amount_invoice>
+<amount>500000</amount>
+</invoice>
+<invoice>
+<debtor_number>900</debtor_number>
+<invoice_number>a13</invoice_number>
+<description>old date invoice</description>
+<invoice_date>20111124</invoice_date>
+<date_due>20121124</date_due>
+<date_paid></date_paid>
+<currency_code>EUR</currency_code>
+<amount_invoice>500000</amount_invoice>
+<amount>500000</amount>
+</invoice>
+<invoice>
+<debtor_number>901</debtor_number>
+<invoice_number>a21</invoice_number>
+<description>credit invoice</description>
+<invoice_date>20111124</invoice_date>
+<date_due>20121124</date_due>
+<date_paid></date_paid>
+<currency_code>EUR</currency_code>
+<amount_invoice>-500000</amount_invoice>
+<amount>-500000</amount>
+</invoice>
+</invoices>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  <parameter name="browser" value="chrome" />
+		<parameter name="url" value="https://localhost/3.20/ApplicationManager" />
+		<parameter name="username" value="onguard" />
+		<parameter name="password" value="kim" />
+    <classes>
+      <class name="TestCases.imp"/>      
+      <class name="TestCases.imp2"/>
+      <class name="TestCases.imp3"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

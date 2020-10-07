@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55794" started-at="2020-10-07T05:30:58Z" finished-at="2020-10-07T05:31:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55794" started-at="2020-10-07T05:30:58Z" finished-at="2020-10-07T05:31:54Z">
+      <class name="TestCases.imp2">
+        <test-method status="PASS" signature="WebDriverManager1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.imp2@7dc7cbad]" name="WebDriverManager1" is-config="true" duration-ms="13941" started-at="2020-10-07T11:01:23Z" finished-at="2020-10-07T11:01:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://localhost/3.20/ApplicationManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[onguard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kim]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebDriverManager1 -->
+        <test-method status="PASS" signature="imp123()[pri:1, instance:TestCases.imp2@7dc7cbad]" name="imp123" duration-ms="2" started-at="2020-10-07T11:01:37Z" finished-at="2020-10-07T11:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imp123 -->
+        <test-method status="PASS" signature="imp456()[pri:2, instance:TestCases.imp2@7dc7cbad]" name="imp456" duration-ms="5" started-at="2020-10-07T11:01:52Z" finished-at="2020-10-07T11:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imp456 -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:TestCases.imp2@7dc7cbad]" name="QuitBrowser" is-config="true" duration-ms="1015" started-at="2020-10-07T11:01:52Z" finished-at="2020-10-07T11:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- TestCases.imp2 -->
+      <class name="TestCases.imp3">
+        <test-method status="PASS" signature="WebDriverManager1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.imp3@d2cc05a]" name="WebDriverManager1" is-config="true" duration-ms="13869" started-at="2020-10-07T11:01:37Z" finished-at="2020-10-07T11:01:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://localhost/3.20/ApplicationManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[onguard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kim]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebDriverManager1 -->
+        <test-method status="PASS" signature="impso()[pri:1, instance:TestCases.imp3@d2cc05a]" name="impso" duration-ms="5" started-at="2020-10-07T11:01:51Z" finished-at="2020-10-07T11:01:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- impso -->
+        <test-method status="PASS" signature="p2()[pri:2, instance:TestCases.imp3@d2cc05a]" name="p2" duration-ms="1" started-at="2020-10-07T11:01:53Z" finished-at="2020-10-07T11:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p2 -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:TestCases.imp3@d2cc05a]" name="QuitBrowser" is-config="true" duration-ms="983" started-at="2020-10-07T11:01:53Z" finished-at="2020-10-07T11:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- TestCases.imp3 -->
+      <class name="TestCases.imp">
+        <test-method status="PASS" signature="WebDriverManager1(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.imp@5419f379]" name="WebDriverManager1" is-config="true" duration-ms="24887" started-at="2020-10-07T11:00:58Z" finished-at="2020-10-07T11:01:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://localhost/3.20/ApplicationManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[onguard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kim]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebDriverManager1 -->
+        <test-method status="PASS" signature="imp1()[pri:1, instance:TestCases.imp@5419f379]" name="imp1" duration-ms="9" started-at="2020-10-07T11:01:23Z" finished-at="2020-10-07T11:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imp1 -->
+        <test-method status="PASS" signature="imp2()[pri:2, instance:TestCases.imp@5419f379]" name="imp2" duration-ms="11" started-at="2020-10-07T11:01:51Z" finished-at="2020-10-07T11:01:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imp2 -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:TestCases.imp@5419f379]" name="QuitBrowser" is-config="true" duration-ms="1011" started-at="2020-10-07T11:01:51Z" finished-at="2020-10-07T11:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- TestCases.imp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

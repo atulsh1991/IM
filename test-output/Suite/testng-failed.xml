@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <parameter name="password" value="kim"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://localhost/3.20/ApplicationManager"/>
+    <parameter name="username" value="onguard"/>
+    <classes>
+      <class name="TestCases.imp2">
+        <methods>
+          <include name="p2"/>
+          <include name="impso"/>
+        </methods>
+      </class> <!-- TestCases.imp2 -->
+      <class name="TestCases.imp">
+        <methods>
+          <include name="impso"/>
+          <include name="p2"/>
+          <include name="WebDriverManager1"/>
+        </methods>
+      </class> <!-- TestCases.imp -->
+      <class name="TestCases.imp3">
+        <methods>
+          <include name="impso"/>
+          <include name="p2"/>
+        </methods>
+      </class> <!-- TestCases.imp3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

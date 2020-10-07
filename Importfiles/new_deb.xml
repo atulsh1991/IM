@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Preprocessor on woensdag 17 maart 2010 15:48:57-->
+<debtors>
+  <debtor>
+    <debtor_number>900</debtor_number>
+    <duns_number></duns_number>
+    <name>atul</name>
+    <credit_limit currency="eur">1500000</credit_limit>
+    <address>
+      <address1>Industrieweg 34</address1>
+	<address2>Industrieweg 343</address2>
+      <town>BORNEM</town>
+    </address>
+  </debtor>
+  <debtor>
+    <debtor_number>901</debtor_number>
+    <duns_number></duns_number>
+    <name>sumeet</name>
+    <credit_limit currency="eur">1500000</credit_limit>
+    <address>
+      <address1>Industrieweg 34</address1>
+	<address2>Industrieweg 343</address2>
+      <town>BORNEM</town>
+    </address>
+  </debtor>
+</debtors>
+
+
+
